@@ -16,3 +16,7 @@ buildGvtPackage {
 
 ## Examples
 See the `examples/` directory
+
+
+## Limitiations
+I needed to support `gvt` for a demo, and only added support for git repositories. PR's are definetely welcome to add different vendor sources.
